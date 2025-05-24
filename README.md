@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态兽耳光标特效 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Pixel+Emulator&size=26&duration=4000&pause=800&color=FF69B4&center=true&vCenter=true&width=580&lines=✨+XingTanial+%7C+兽圈码农+%F0%9F%90%B1;🎮+虚幻引擎魔改师+▌工具锻造者;🎓+数字艺术学徒+%7C+摩影工坊成员" alt="个性头衔" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel+Emulator&size=26&duration=4000&pause=800&color=FF69B4&center=true&vCenter=true&width=580&lines=✨+XingTanial+%7C+兽圈码农+%F0%9F%90%B1;🎮+Cloudflare玩家+▌工具锻造者;🎓+初中生+%7C+摩影工作室成员" alt="个性头衔" />
 
 <!-- 动态像素工坊横幅 -->
 ![Studio Banner](https://github.com/XingTanial/XingTanial/blob/main/assets/pixel-banner.gif?raw=true)
@@ -16,8 +16,8 @@
 
 | 🧪 实验性工具 | 🕹️ 游戏项目 |
 |---------------|--------------|
-| [FurPhysics](https://...) 敬请期待 | [NeonTails](https://...) 敬请期待 |
-| [PawToon](https://...) 敬请期待 | [CyberLair](https://...) 敬请期待 |
+| [敬请期待](https://...)  | [敬请期待](https://...) |
+| [敬请期待](https://...)  | [敬请期待](https://...) |
 
 ### 📌 贡献里程碑
 
