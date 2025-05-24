@@ -1,30 +1,39 @@
 <div align="center">
-  <!-- 动态兽爪光标 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=28&duration=4000&pause=500&color=FF7F50&center=true&vCenter=true&width=600&lines=🐾+嗨+我是+XiniTanial;🎓+数字媒体技术专业学生;🕹+游戏魔法师+▌工具制造者;✨+摩影工作室首席爪码师" alt="个性头衔" />
+  <!-- 动态兽耳光标特效 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Pixel+Emulator&size=26&duration=4000&pause=800&color=FF69B4&center=true&vCenter=true&width=580&lines=✨+XingTanial+%7C+兽圈码农+%F0%9F%90%B1;🎮+虚幻引擎魔改师+▌工具锻造者;🎓+数字艺术学徒+%7C+摩影工坊成员" alt="个性头衔" />
 
-<!-- 动态像素风横幅 -->
-![Banner](https://github.com/XiniTanial/XiniTanial/blob/main/assets/studio-banner.gif?raw=true)
+<!-- 动态像素工坊横幅 -->
+![Studio Banner](https://github.com/XingTanial/XingTanial/blob/main/assets/pixel-banner.gif?raw=true)
 
-### 🎮 技术武器库
+### 🧰 技术熔炉
 
-![](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Unreal-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Blender-FF6B6B?logo=blender&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-Aseprite-FF7F50?logo=aseprite&logoColor=white&style=flat-square)
 
-### 📊 创作轨迹
+### 🎁 作品宝箱
 
-<!-- 兽爪形状的贡献日历 -->
-[![Furry Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=XiniTanial&theme=react-dark&area=true&hide_border=true&custom_title=爪痕代码日历)](https://github.com/XiniTanial)
+| 🧪 实验性工具 | 🕹️ 游戏项目 |
+|---------------|--------------|
+| [FurPhysics](https://...) 敬请期待 | [NeonTails](https://...) 敬请期待 |
+| [PawToon](https://...) 敬请期待 | [CyberLair](https://...) 敬请期待 |
 
-<!-- 三维立体数据看板 -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XiniTanial&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XiniTanial&theme=github_dark)
+### 📌 贡献里程碑
 
-### 🐈 兽耳网络
+<!-- 兽爪形状代码日历 -->
+[![Furry Code Paw](https://github-readme-activity-graph.vercel.app/graph?username=XingTanial&theme=merko&area=true&hide_border=true&custom_title=兽印代码轨迹)](https://github.com/XingTanial)
 
-[![Studio](https://img.shields.io/badge/摩影工作室-FF69B4?style=flat&logo=gamejolt&logoColor=white)](https://github.com/MoyingStudio)
+<!-- 立体化数据看板 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XingTanial&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XingTanial&theme=radical)
 
-<!-- 动态兽爪脚印 -->
-<img src="https://profile-counter.glitch.me/XiniTanial/count.svg" alt="爪印计数器" />
+### 🌐 兽网联结
+
+[![摩影工坊](https://img.shields.io/badge/-摩影工坊-FF69B4?logo=gamejolt&logoColor=white&style=for-the-badge)](https://github.com/MoyingStudio)
+[![兽设画廊](https://img.shields.io/badge/-FurAffinity-2A2A2A?logo=deviantart&logoColor=white&style=for-the-badge)](https://www.furaffinity.net/user/...)
+[![爱发电](https://img.shields.io/badge/-爱发电-FF4C4C?logo=patreon&logoColor=white&style=for-the-badge)](https://afdian.net/@...)
+
+<!-- 动态兽耳计数器 -->
+<img src="https://komarev.com/ghpvc/?username=XingTanial&label=兽耳侦察兵&color=FF69B4&style=flat-square" alt="访客统计" />
 </div>
