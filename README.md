@@ -12,13 +12,6 @@
 ![](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-### 🛠️ 作品陈列架
-
-| 🐾 萌系工具 | 🎮 游戏作品 |
-|-------------|-------------|
-| [FurShader](https://...) 兽毛渲染插件 | [CyberTail](https://...) 赛博兽娘跑酷 |
-| [PawPal](https://...) 兽迷社交工具 | [NeonDen](https://...) 霓虹地下城RPG |
-
 ### 📊 创作轨迹
 
 <!-- 兽爪形状的贡献日历 -->
@@ -31,8 +24,6 @@
 ### 🐈 兽耳网络
 
 [![Studio](https://img.shields.io/badge/摩影工作室-FF69B4?style=flat&logo=gamejolt&logoColor=white)](https://github.com/MoyingStudio)
-[![FurryWiki](https://img.shields.io/badge/兽设百科-8A2BE2?style=flat&logo=wikipedia&logoColor=white)](https://...)
-[![Steam](https://img.shields.io/badge/Steam作品集-000000?style=flat&logo=steam&logoColor=white)](https://...)
 
 <!-- 动态兽爪脚印 -->
 <img src="https://profile-counter.glitch.me/XiniTanial/count.svg" alt="爪印计数器" />
