@@ -30,9 +30,8 @@
 
 ### 🌐 兽网联结
 
-[![摩影工坊](https://img.shields.io/badge/-摩影工坊-FF69B4?logo=gamejolt&logoColor=white&style=for-the-badge)](https://github.com/MoyingStudio)
-[![兽设画廊](https://img.shields.io/badge/-FurAffinity-2A2A2A?logo=deviantart&logoColor=white&style=for-the-badge)](https://www.furaffinity.net/user/...)
-[![爱发电](https://img.shields.io/badge/-爱发电-FF4C4C?logo=patreon&logoColor=white&style=for-the-badge)](https://afdian.net/@...)
+[![哔哩哔哩](https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/3493120685640569)
+[![GitHub](https://img.shields.io/badge/-GitHub%20Org-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/XingTanial)
 
 <!-- 动态兽耳计数器 -->
 <img src="https://komarev.com/ghpvc/?username=XingTanial&label=兽耳侦察兵&color=FF69B4&style=flat-square" alt="访客统计" />
